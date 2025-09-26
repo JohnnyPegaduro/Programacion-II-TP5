@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="TP5_UML_Relaciones_Simple" default="default" basedir=".">
+    <description>NetBeans Ant project - all sources in a single folder.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
